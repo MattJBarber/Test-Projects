@@ -1,0 +1,6 @@
+c:\users\matt\documents\visual studio 2017\Projects\BlueshiftTest\Question3\bin\Debug\Question3.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\BlueshiftTest\Question3\bin\Debug\Question3.exe
+c:\users\matt\documents\visual studio 2017\Projects\BlueshiftTest\Question3\bin\Debug\Question3.pdb
+c:\users\matt\documents\visual studio 2017\Projects\BlueshiftTest\Question3\obj\Debug\Question3.csprojResolveAssemblyReference.cache
+c:\users\matt\documents\visual studio 2017\Projects\BlueshiftTest\Question3\obj\Debug\Question3.exe
+c:\users\matt\documents\visual studio 2017\Projects\BlueshiftTest\Question3\obj\Debug\Question3.pdb
